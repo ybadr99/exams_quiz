@@ -95,28 +95,40 @@ function splitEnglishUnits(raw: NestedExamFile): ExamData[] {
     })
 }
 
-function normalizeGeneralExam(raw: FlatExamFile): ExamData {
-  return {
+function splitGeneralUnits(raw: FlatExamFile): ExamData[] {
+  const grouped = new Map<string, Question[]>()
+
+  for (const question of raw.questions) {
+    const unitQuestions = grouped.get(question.unit)
+
+    if (unitQuestions) {
+      unitQuestions.push(question)
+    } else {
+      grouped.set(question.unit, [question])
+    }
+  }
+
+  return [...grouped.entries()].map(([unit, questions], index) => ({
     subject: {
       id: raw.subjectid,
       title: raw.title,
     },
     exam: {
-      id: raw.examid,
-      title: raw.title_exam,
-      order: raw.order,
-      questionCount: raw.questions.length,
+      id: `${raw.subjectid}-unit-${index + 1}`,
+      title: unit,
+      order: index + 1,
+      questionCount: questions.length,
     },
-    questions: raw.questions,
-  }
+    questions,
+  }))
 }
 
 const englishExams = splitEnglishUnits(englishJson as unknown as NestedExamFile)
-const generalExam = normalizeGeneralExam(generalJson as unknown as FlatExamFile)
+const generalExams = splitGeneralUnits(generalJson as unknown as FlatExamFile)
 
-export const exams: ExamData[] = [...englishExams, generalExam]
+export const exams: ExamData[] = [...englishExams, ...generalExams]
 
-export const defaultExam = englishExams[0] ?? generalExam
+export const defaultExam = englishExams[0] ?? generalExams[0]
 
 export function getExamById(examId: string): ExamData | undefined {
   return exams.find((exam) => exam.exam.id === examId)

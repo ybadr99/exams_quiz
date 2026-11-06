@@ -68,9 +68,11 @@ export function HomePage() {
                   </span>
                 </div>
 
+                <div className="mt-4 flex-1" aria-hidden="true" />
+
                 <Link
                   to={`/exam/${exam.exam.id}`}
-                  className="mt-auto inline-flex items-center justify-center gap-2 rounded-md bg-indigo-600 px-4 py-2.5 pt-2.5 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
+                  className="inline-flex items-center justify-center gap-2 rounded-md bg-indigo-600 px-4 py-2.5 text-sm font-semibold text-white transition-colors hover:bg-indigo-700"
                 >
                   ابدأ الاختبار
                   <ArrowLeft className="size-4" aria-hidden="true" />
