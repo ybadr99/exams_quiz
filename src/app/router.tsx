@@ -1,11 +1,11 @@
-import { Navigate, createBrowserRouter } from 'react-router-dom'
+import { Navigate, createHashRouter } from 'react-router-dom'
 import { RootLayout } from '@/components/layout/RootLayout'
 import { defaultExam } from '@/features/quiz/data/exams'
 import { HomePage } from '@/pages/HomePage'
 import { NotFoundPage } from '@/pages/NotFoundPage'
 import { QuizPage } from '@/pages/QuizPage'
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: '/',
     element: <RootLayout />,
