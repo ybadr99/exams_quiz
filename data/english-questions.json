@@ -1,0 +1,3914 @@
+{
+  "subject": {
+    "id": "english-1",
+    "title": "English"
+  },
+  "exam": {
+    "id": "english-1-exam-1",
+    "title": "Exam 1",
+    "order": 1,
+    "questionCount": 300,
+    "questions": [
+      {
+        "id": 1,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "How many letters are there in the English alphabet?",
+        "options": {
+          "A": "24",
+          "B": "26",
+          "C": "28",
+          "D": "30"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 2,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the capital letter for \"a\"?",
+        "options": {
+          "A": "A",
+          "B": "B",
+          "C": "C",
+          "D": "E"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 3,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the small letter for \"B\"?",
+        "options": {
+          "A": "d",
+          "B": "b",
+          "C": "p",
+          "D": "q"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 4,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the small letter for \"G\"?",
+        "options": {
+          "A": "j",
+          "B": "g",
+          "C": "q",
+          "D": "c"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 5,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the capital letter for \"m\"?",
+        "options": {
+          "A": "W",
+          "B": "N",
+          "C": "M",
+          "D": "H"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 6,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the capital letter for \"r\"?",
+        "options": {
+          "A": "P",
+          "B": "R",
+          "C": "B",
+          "D": "K"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 7,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the small letter for \"Q\"?",
+        "options": {
+          "A": "g",
+          "B": "p",
+          "C": "q",
+          "D": "d"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 8,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "What is the small letter for \"Y\"?",
+        "options": {
+          "A": "v",
+          "B": "y",
+          "C": "w",
+          "D": "z"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 9,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "Which pair shows the correct matching capital and small letter?",
+        "options": {
+          "A": "D - b",
+          "B": "D - d",
+          "C": "D - p",
+          "D": "D - q"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 10,
+        "unit": "Unit 1: The English Alphabet & Letter Forms",
+        "type": "mcq",
+        "prompt": "Which letter pair is INCORRECT?",
+        "options": {
+          "A": "A - a",
+          "B": "E - e",
+          "C": "H - k",
+          "D": "F - f"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 11,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"أنا\" in English?",
+        "options": {
+          "A": "You",
+          "B": "I",
+          "C": "He",
+          "D": "They"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 12,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"هو\" for a male person?",
+        "options": {
+          "A": "She",
+          "B": "He",
+          "C": "It",
+          "D": "We"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 13,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"هي\" for a female person?",
+        "options": {
+          "A": "She",
+          "B": "He",
+          "C": "You",
+          "D": "They"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 14,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun is used for a non-human singular object or animal (هو/هي لغير العاقل)?",
+        "options": {
+          "A": "He",
+          "B": "She",
+          "C": "It",
+          "D": "We"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 15,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"نحن\"?",
+        "options": {
+          "A": "They",
+          "B": "We",
+          "C": "You",
+          "D": "I"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 16,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"هم / هن\"?",
+        "options": {
+          "A": "We",
+          "B": "You",
+          "C": "They",
+          "D": "He"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 17,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Which subject pronoun means \"أنت / أنتِ / أنتم\"?",
+        "options": {
+          "A": "You",
+          "B": "I",
+          "C": "He",
+          "D": "She"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 18,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ play football.",
+        "options": {
+          "A": "I",
+          "B": "He",
+          "C": "She",
+          "D": "It"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 19,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ look wonderful.",
+        "options": {
+          "A": "You",
+          "B": "He",
+          "C": "It",
+          "D": "I"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 20,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ is a black car.",
+        "options": {
+          "A": "He",
+          "B": "She",
+          "C": "It",
+          "D": "We"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 21,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ is hungry.",
+        "options": {
+          "A": "He",
+          "B": "She",
+          "C": "They",
+          "D": "We"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 22,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ are amazing.",
+        "options": {
+          "A": "He",
+          "B": "She",
+          "C": "They",
+          "D": "I"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 23,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ helps me.",
+        "options": {
+          "A": "He",
+          "B": "They",
+          "C": "We",
+          "D": "You"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 24,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "What is the standard order of sentence construction in English?",
+        "options": {
+          "A": "Verb + Subject + Object",
+          "B": "Subject + Verb + Object",
+          "C": "Object + Verb + Subject",
+          "D": "Subject + Object + Verb"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 25,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "In the sentence \"I play football\", which word is the Subject (الفاعل)?",
+        "options": {
+          "A": "I",
+          "B": "play",
+          "C": "football",
+          "D": "sports"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 26,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "In the sentence \"I play football\", which word is the Verb (الفعل)?",
+        "options": {
+          "A": "I",
+          "B": "play",
+          "C": "football",
+          "D": "ball"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 27,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "In the sentence \"I play football\", which word is the Object (المفعول به)?",
+        "options": {
+          "A": "I",
+          "B": "play",
+          "C": "football",
+          "D": "game"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 28,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Subject pronouns take the place of the _____ in a sentence.",
+        "options": {
+          "A": "Subject",
+          "B": "Verb",
+          "C": "Adjective",
+          "D": "Preposition"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 29,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "What does the pronoun \"They\" mean in Arabic?",
+        "options": {
+          "A": "نحن",
+          "B": "هم / هن",
+          "C": "أنت",
+          "D": "هو"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 30,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Identify the grammatically correct sentence structure.",
+        "options": {
+          "A": "Football play I.",
+          "B": "I play football.",
+          "C": "Play I football.",
+          "D": "Football I play."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 31,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Choose the correct pronoun to replace the underlined subject: <u>Mohamed</u> helps me.",
+        "options": {
+          "A": "She",
+          "B": "He",
+          "C": "It",
+          "D": "They"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 32,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Choose the correct pronoun to replace the underlined subject: <u>The car</u> is black.",
+        "options": {
+          "A": "He",
+          "B": "She",
+          "C": "It",
+          "D": "You"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 33,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Choose the correct pronoun to replace the underlined subject: <u>Sara and I</u> play football.",
+        "options": {
+          "A": "They",
+          "B": "We",
+          "C": "You",
+          "D": "He"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 34,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Choose the correct pronoun to replace the underlined subject: <u>The doctors</u> are amazing.",
+        "options": {
+          "A": "We",
+          "B": "You",
+          "C": "They",
+          "D": "He"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 35,
+        "unit": "Unit 2: Subject Pronouns & Sentence Structure",
+        "type": "mcq",
+        "prompt": "Complete the sentence structure correctly. To say \"أنا أتعلم الإنجليزية\" in English, the correct order is:",
+        "options": {
+          "A": "English I learn.",
+          "B": "Learn I English.",
+          "C": "I learn English.",
+          "D": "English learn I."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 36,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص بي / ملكي\"?",
+        "options": {
+          "A": "Your",
+          "B": "My",
+          "C": "His",
+          "D": "Her"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 37,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص بك / ملكك\"?",
+        "options": {
+          "A": "My",
+          "B": "Your",
+          "C": "Our",
+          "D": "Its"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 38,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص به / ملكه\" (for a male)?",
+        "options": {
+          "A": "Her",
+          "B": "His",
+          "C": "Its",
+          "D": "Our"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 39,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص بها / ملكها\" (for a female)?",
+        "options": {
+          "A": "His",
+          "B": "Her",
+          "C": "Your",
+          "D": "My"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 40,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص به أو بها لغير العاقل\"?",
+        "options": {
+          "A": "His",
+          "B": "Her",
+          "C": "Its",
+          "D": "Our"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 41,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Which possessive adjective means \"خاص بنا / ملكنا\"?",
+        "options": {
+          "A": "Your",
+          "B": "My",
+          "C": "Our",
+          "D": "His"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 42,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: What is _____ name?",
+        "options": {
+          "A": "my",
+          "B": "your",
+          "C": "his",
+          "D": "our"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 43,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: _____ name is Mohamed.",
+        "options": {
+          "A": "My",
+          "B": "Your",
+          "C": "Her",
+          "D": "Its"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 44,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Where is _____ home?",
+        "options": {
+          "A": "my",
+          "B": "his",
+          "C": "her",
+          "D": "our"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 45,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The cat is small. This is _____ leg.",
+        "options": {
+          "A": "his",
+          "B": "her",
+          "C": "its",
+          "D": "our"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 46,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: This is _____ car.",
+        "options": {
+          "A": "his",
+          "B": "her",
+          "C": "my",
+          "D": "your"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 47,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: This is _____ company.",
+        "options": {
+          "A": "our",
+          "B": "my",
+          "C": "your",
+          "D": "its"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 48,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: This is _____ phone.",
+        "options": {
+          "A": "her",
+          "B": "his",
+          "C": "our",
+          "D": "my"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 49,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Where does a possessive adjective come in a sentence?",
+        "options": {
+          "A": "After the noun",
+          "B": "Before the noun",
+          "C": "At the very end of every sentence",
+          "D": "Before the verb only"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 50,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "What is the Arabic meaning of \"My\"?",
+        "options": {
+          "A": "خاص بك",
+          "B": "خاص بي",
+          "C": "خاص بنا",
+          "D": "خاص به"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 51,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "What is the Arabic meaning of \"Our\"?",
+        "options": {
+          "A": "خاص بي",
+          "B": "خاص بك",
+          "C": "خاص بنا",
+          "D": "خاص بها"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 52,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "What is the Arabic meaning of \"Her\"?",
+        "options": {
+          "A": "خاص به",
+          "B": "خاص بها",
+          "C": "خاص بنا",
+          "D": "خاص بي"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 53,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: This is _____ book.",
+        "options": {
+          "A": "my",
+          "B": "your",
+          "C": "his",
+          "D": "her"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 54,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: What is _____ phone number?",
+        "options": {
+          "A": "your",
+          "B": "my",
+          "C": "our",
+          "D": "its"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 55,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": {
+          "A": "This is she car.",
+          "B": "This is her car.",
+          "C": "This is hers car.",
+          "D": "This is him car."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 56,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": {
+          "A": "This is he phone.",
+          "B": "This is his phone.",
+          "C": "This is him phone.",
+          "D": "This is they phone."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 57,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The cat is small. _____ leg is clean.",
+        "options": {
+          "A": "His",
+          "B": "Her",
+          "C": "Its",
+          "D": "Our"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 58,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: We work here. This is _____ company.",
+        "options": {
+          "A": "my",
+          "B": "your",
+          "C": "our",
+          "D": "its"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 59,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Ahmed is at home. This is _____ house.",
+        "options": {
+          "A": "her",
+          "B": "his",
+          "C": "my",
+          "D": "our"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 60,
+        "unit": "Unit 3: Possessive Adjectives",
+        "type": "mcq",
+        "prompt": "Choose the correct option to complete the context: Mona is driving _____ car.",
+        "options": {
+          "A": "his",
+          "B": "her",
+          "C": "its",
+          "D": "our"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 61,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "What are the three present tense forms of the verb \"to be\"?",
+        "options": {
+          "A": "was, were, been",
+          "B": "am, is, are",
+          "C": "do, does, did",
+          "D": "have, has, had"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 62,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Which present form of \"be\" is used strictly with the pronoun \"I\"?",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 63,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Which present form of \"be\" is used with singular subject pronouns (He, She, It)?",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 64,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Which present form of \"be\" is used with plural subject pronouns (They, We, You)?",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 65,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I _____ twenty two years old.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 66,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: You _____ happy.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 67,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: He _____ sad.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 68,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: She _____ a teacher.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 69,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: It _____ a cat.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 70,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: We _____ old.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 71,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: You _____ young.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 72,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: They _____ doctors.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 73,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"He is sad.\"",
+        "options": {
+          "A": "هو سعيد",
+          "B": "هو حزين",
+          "C": "هو معلم",
+          "D": "هو طبيب"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 74,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"You are happy.\"",
+        "options": {
+          "A": "أنت حزين",
+          "B": "أنت سعيد",
+          "C": "أنت صغير",
+          "D": "أنت كبير"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 75,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"She is a teacher.\"",
+        "options": {
+          "A": "هي معلمة",
+          "B": "هي طبيبة",
+          "C": "هي سعيدة",
+          "D": "هي حزينة"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 76,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"They are doctors.\"",
+        "options": {
+          "A": "هم معلمون",
+          "B": "هم أطباء",
+          "C": "هم صغار",
+          "D": "هم كبار"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 77,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The cat _____ small.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 78,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I _____ hungry.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 79,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The place _____ amazing.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 80,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: My friend _____ Mahmoud.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 81,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The doctors _____ inside the hospital.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 82,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: My country _____ Egypt.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 83,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: We _____ in the restaurant.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 84,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The road _____ crowded.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 85,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I _____ fine, thank you.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 86,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Ali _____ traveling with me.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 87,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Ali and Mahmoud _____ friends.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 88,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": {
+          "A": "I is a doctor.",
+          "B": "I am a doctor.",
+          "C": "I are a doctor.",
+          "D": "I be a doctor."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 89,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": {
+          "A": "They is hungry.",
+          "B": "They am hungry.",
+          "C": "They are hungry.",
+          "D": "They be hungry."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 90,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: This person _____ the manager.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 91,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: My nationality _____ Egyptian.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 92,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The train station _____ in front of the square.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "were"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 93,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: You _____ welcome.",
+        "options": {
+          "A": "am",
+          "B": "is",
+          "C": "are",
+          "D": "was"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 94,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Identify the grammatically INCORRECT sentence.",
+        "options": {
+          "A": "She is late.",
+          "B": "He is sad.",
+          "C": "We is old.",
+          "D": "They are amazing."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 95,
+        "unit": "Unit 4: Present Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Correct the error in the sentence: \"They is doctors.\"",
+        "options": {
+          "A": "They am doctors.",
+          "B": "They are doctors.",
+          "C": "They was doctors.",
+          "D": "They be doctors."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 96,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "What are the two past tense forms of the verb \"to be\"?",
+        "options": {
+          "A": "am, is",
+          "B": "was, were",
+          "C": "do, did",
+          "D": "have, had"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 97,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Which past form of \"be\" is used with singular pronouns (I, He, She, It)?",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 98,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Which past form of \"be\" is used with plural pronouns (They, We, You)?",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 99,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I _____ in the house.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "am",
+          "D": "is"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 100,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: You _____ hungry.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 101,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: He _____ at work.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 102,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: She _____ late.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 103,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: It _____ cold.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 104,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: We _____ in Turkey.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 105,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: You _____ sick.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 106,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: They _____ at school.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 107,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"I was in the house.\"",
+        "options": {
+          "A": "أنا في المنزل الآن",
+          "B": "أنا كنت في المنزل",
+          "C": "هو كان في المنزل",
+          "D": "نحن كنا في المنزل"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 108,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct Arabic translation: \"They were at school.\"",
+        "options": {
+          "A": "هم كانوا في المدرسة",
+          "B": "هم في المدرسة الآن",
+          "C": "نحن كنا في المدرسة",
+          "D": "أنت كنت في المدرسة"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 109,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence with the correct past verb: The road _____ crowded yesterday.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 110,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The students _____ at school yesterday morning.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 111,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The meeting place _____ in the restaurant.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 112,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: My friend _____ sick yesterday.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 113,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct past tense sentence.",
+        "options": {
+          "A": "She were late.",
+          "B": "She was late.",
+          "C": "She are late.",
+          "D": "She am late."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 114,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct past tense sentence.",
+        "options": {
+          "A": "We was in Turkey.",
+          "B": "We were in Turkey.",
+          "C": "We am in Turkey.",
+          "D": "We is in Turkey."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 115,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Yesterday, it _____ very cold outside.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "am"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 116,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The children _____ hungry after school.",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 117,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct past verb for the subject pronoun \"I\". In past tense sentences, \"I\" takes:",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 118,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct past verb for the subject pronoun \"We\". In past tense sentences, \"We\" takes:",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 119,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct past verb for the subject pronoun \"He\". In past tense sentences, \"He\" takes:",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "are",
+          "D": "be"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 120,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Choose the correct past verb for the subject pronoun \"They\". In past tense sentences, \"They\" takes:",
+        "options": {
+          "A": "was",
+          "B": "were",
+          "C": "is",
+          "D": "am"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 121,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Identify the sentence that refers to the past (الماضي).",
+        "options": {
+          "A": "I am hungry.",
+          "B": "She is late.",
+          "C": "They were at school.",
+          "D": "We are old."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 122,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Identify the sentence that refers to the present (الحاضر).",
+        "options": {
+          "A": "It was cold.",
+          "B": "He is sad.",
+          "C": "We were in Turkey.",
+          "D": "You were sick."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 123,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Identify the grammatically INCORRECT sentence.",
+        "options": {
+          "A": "He was at work.",
+          "B": "You were hungry.",
+          "C": "They was at school.",
+          "D": "I was in the house."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 124,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Correct the error in the sentence: \"We was in Turkey.\"",
+        "options": {
+          "A": "We am in Turkey.",
+          "B": "We were in Turkey.",
+          "C": "We is in Turkey.",
+          "D": "We be in Turkey."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 125,
+        "unit": "Unit 5: Past Tense - Verb to Be",
+        "type": "mcq",
+        "prompt": "Complete the context: Last night, I _____ tired and my brother _____ hungry.",
+        "options": {
+          "A": "was / were",
+          "B": "was / was",
+          "C": "were / was",
+          "D": "were / were"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 126,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "What is the definite article in English used before singular or plural nouns to specify them?",
+        "options": {
+          "A": "A",
+          "B": "An",
+          "C": "The",
+          "D": "Of"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 127,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence with the correct article: _____ sun is beautiful.",
+        "options": {
+          "A": "A",
+          "B": "An",
+          "C": "The",
+          "D": "One"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 128,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I can see _____ sun.",
+        "options": {
+          "A": "a",
+          "B": "an",
+          "C": "the",
+          "D": "into"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 129,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Give me _____ pen.",
+        "options": {
+          "A": "the",
+          "B": "a",
+          "C": "an",
+          "D": "to"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 130,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: We win _____ match.",
+        "options": {
+          "A": "a",
+          "B": "the",
+          "C": "an",
+          "D": "on"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 131,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: She found _____ book.",
+        "options": {
+          "A": "the",
+          "B": "an",
+          "C": "to",
+          "D": "in"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 132,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Choose the correct English equivalent for \"الشمس جميلة\".",
+        "options": {
+          "A": "Sun is beautiful.",
+          "B": "Beautiful is sun.",
+          "C": "The sun is beautiful.",
+          "D": "A sun is beautiful."
+        },
+        "answer": "C"
+      },
+      {
+        "id": 133,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Where is _____ train station?",
+        "options": {
+          "A": "the",
+          "B": "an",
+          "C": "a",
+          "D": "of"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 134,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: The price of _____ pen is two dollars.",
+        "options": {
+          "A": "this",
+          "B": "these",
+          "C": "those",
+          "D": "an"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 135,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Choose the sentence that correctly uses the definite article \"The\".",
+        "options": {
+          "A": "Give me the pen.",
+          "B": "Give me pen the.",
+          "C": "The give me pen.",
+          "D": "Give the me pen."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 136,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Please bring me _____ bill.",
+        "options": {
+          "A": "a",
+          "B": "the",
+          "C": "an",
+          "D": "to"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 137,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Where is _____ nearest hospital?",
+        "options": {
+          "A": "the",
+          "B": "an",
+          "C": "a",
+          "D": "at"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 138,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Complete the sentence: Where is _____ airport road?",
+        "options": {
+          "A": "a",
+          "B": "the",
+          "C": "an",
+          "D": "to"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 139,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Why do we say \"The sun is beautiful\" instead of \"Sun is beautiful\"?",
+        "options": {
+          "A": "Because \"beautiful\" comes first.",
+          "B": "Because \"The\" is the definite article required before specific nouns like \"sun\".",
+          "C": "Because \"sun\" is a verb.",
+          "D": "Because \"sun\" is plural."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 140,
+        "unit": "Unit 6: Definite Article (The)",
+        "type": "mcq",
+        "prompt": "Choose the grammatically correct sentence.",
+        "options": {
+          "A": "I can see sun.",
+          "B": "I can see the sun.",
+          "C": "I can see a suns.",
+          "D": "I can see an sun."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 141,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about things?",
+        "options": {
+          "A": "What",
+          "B": "When",
+          "C": "Where",
+          "D": "Who"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 142,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about time?",
+        "options": {
+          "A": "Where",
+          "B": "When",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 143,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about places?",
+        "options": {
+          "A": "What",
+          "B": "When",
+          "C": "Where",
+          "D": "Who"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 144,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about method or quantity?",
+        "options": {
+          "A": "How",
+          "B": "Who",
+          "C": "Why",
+          "D": "Where"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 145,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about a person?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 146,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Which question word is used to ask about reasons?",
+        "options": {
+          "A": "When",
+          "B": "Where",
+          "C": "How",
+          "D": "Why"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 147,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your name?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "When",
+          "D": "Who"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 148,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ time is it now?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "Why"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 149,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your home?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 150,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is the next match?",
+        "options": {
+          "A": "When",
+          "B": "Where",
+          "C": "Who",
+          "D": "What"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 151,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ are you?",
+        "options": {
+          "A": "What",
+          "B": "How",
+          "C": "Who",
+          "D": "Where"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 152,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ old are you?",
+        "options": {
+          "A": "What",
+          "B": "How",
+          "C": "Where",
+          "D": "Who"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 153,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is this person?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 154,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ are you late?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Why",
+          "D": "Who"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 155,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your favorite drink?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "When"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 156,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"What is your name?\" Response: \"_____\"",
+        "options": {
+          "A": "I am thirty years old.",
+          "B": "My name is Mohamed.",
+          "C": "My home in Cairo.",
+          "D": "I am fine, thank you."
+        },
+        "answer": "B"
+      },
+      {
+        "id": 157,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"Where is your home?\" Response: \"_____\"",
+        "options": {
+          "A": "It is 6 o'clock.",
+          "B": "My home in Cairo.",
+          "C": "My favorite food is fish.",
+          "D": "I am learning English."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 158,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"How old are you?\" Response: \"_____\"",
+        "options": {
+          "A": "I am thirty years old.",
+          "B": "My passport in my bag.",
+          "C": "I need a pen.",
+          "D": "Because I do my job."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 159,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"When is the next match?\" Response: \"_____\"",
+        "options": {
+          "A": "My favorite food is fish.",
+          "B": "The next match will be on Friday.",
+          "C": "The price is two dollars.",
+          "D": "My home in Cairo."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 160,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your favorite food?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "Why"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 161,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is the flight number?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "Why"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 162,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your nationality?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "When"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 163,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your phone number?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "Why"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 164,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ do you want?",
+        "options": {
+          "A": "What",
+          "B": "Who",
+          "C": "Where",
+          "D": "When"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 165,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is the passport?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 166,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is my ticket?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "When"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 167,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ can I help you?",
+        "options": {
+          "A": "What",
+          "B": "How",
+          "C": "Where",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 168,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ much is this pen?",
+        "options": {
+          "A": "What",
+          "B": "How",
+          "C": "Where",
+          "D": "Who"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 169,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is your friend?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 170,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is responsible for you?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 171,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is traveling with you?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "When"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 172,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ are you learning English?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Why",
+          "D": "Who"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 173,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"How are you?\" Response: \"_____\"",
+        "options": {
+          "A": "I am fine, Thank You.",
+          "B": "My name is Mohamed.",
+          "C": "It is 6 o'clock.",
+          "D": "I need a pen."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 174,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"How much is this pen?\" Response: \"_____\"",
+        "options": {
+          "A": "The price of this pen is two dollars.",
+          "B": "My passport in my bag.",
+          "C": "The next match is on Friday.",
+          "D": "This person is the manager."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 175,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"Who is this person?\" Response: \"_____\"",
+        "options": {
+          "A": "This person is the manager.",
+          "B": "I am thirty years old.",
+          "C": "The train station is in front of the square.",
+          "D": "My flight is in twelve AM."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 176,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Match the question to its response. Question: \"Why are you angry?\" Response: \"_____\"",
+        "options": {
+          "A": "Because the place is crowd.",
+          "B": "My country is Egypt.",
+          "C": "I want to play football.",
+          "D": "The price is two dollars."
+        },
+        "answer": "A"
+      },
+      {
+        "id": 177,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the response correctly. Question: \"Why are you happy?\" Response: \"_____ the place is amazing.\"",
+        "options": {
+          "A": "So",
+          "B": "Because",
+          "C": "But",
+          "D": "And"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 178,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is the president of your country?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 179,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ can I reach the train station?",
+        "options": {
+          "A": "What",
+          "B": "How",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 180,
+        "unit": "Unit 7: Question Words & Answers",
+        "type": "mcq",
+        "prompt": "Complete the question: _____ is the next meeting?",
+        "options": {
+          "A": "What",
+          "B": "Where",
+          "C": "Who",
+          "D": "Why"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 181,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يذهب\".",
+        "options": {
+          "A": "go",
+          "B": "eat",
+          "C": "drink",
+          "D": "sleep"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 182,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يأكل\".",
+        "options": {
+          "A": "go",
+          "B": "eat",
+          "C": "drink",
+          "D": "run"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 183,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يشرب\".",
+        "options": {
+          "A": "eat",
+          "B": "sleep",
+          "C": "drink",
+          "D": "build"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 184,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"ينام\".",
+        "options": {
+          "A": "sleep",
+          "B": "run",
+          "C": "buy",
+          "D": "come"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 185,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يجري\".",
+        "options": {
+          "A": "sleep",
+          "B": "run",
+          "C": "drive",
+          "D": "dream"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 186,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يبني\".",
+        "options": {
+          "A": "build",
+          "B": "buy",
+          "C": "cut",
+          "D": "know"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 187,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يشتري\".",
+        "options": {
+          "A": "build",
+          "B": "buy",
+          "C": "come",
+          "D": "do"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 188,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يأتي\".",
+        "options": {
+          "A": "buy",
+          "B": "come",
+          "C": "cut",
+          "D": "fly"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 189,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يقطع\".",
+        "options": {
+          "A": "come",
+          "B": "cut",
+          "C": "know",
+          "D": "find"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 190,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يعرف\".",
+        "options": {
+          "A": "cut",
+          "B": "know",
+          "C": "drive",
+          "D": "feel"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 191,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يقود\".",
+        "options": {
+          "A": "know",
+          "B": "drive",
+          "C": "dream",
+          "D": "give"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 192,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يحلم\".",
+        "options": {
+          "A": "drive",
+          "B": "dream",
+          "C": "miss",
+          "D": "get"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 193,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يفقد\".",
+        "options": {
+          "A": "dream",
+          "B": "miss",
+          "C": "do",
+          "D": "watch"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 194,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يفعل / يعمل\".",
+        "options": {
+          "A": "miss",
+          "B": "do",
+          "C": "like",
+          "D": "take"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 195,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يحب\".",
+        "options": {
+          "A": "do",
+          "B": "like",
+          "C": "fly",
+          "D": "talk"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 196,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يطير\".",
+        "options": {
+          "A": "like",
+          "B": "fly",
+          "C": "find",
+          "D": "tell"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 197,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يجد\".",
+        "options": {
+          "A": "fly",
+          "B": "find",
+          "C": "forget",
+          "D": "think"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 198,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"ينسى\".",
+        "options": {
+          "A": "find",
+          "B": "forget",
+          "C": "feel",
+          "D": "ask"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 199,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يشعر\".",
+        "options": {
+          "A": "forget",
+          "B": "feel",
+          "C": "give",
+          "D": "call"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 200,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Choose the correct English word for \"يعطي\".",
+        "options": {
+          "A": "feel",
+          "B": "give",
+          "C": "get",
+          "D": "decide"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 201,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يحصل\"?",
+        "options": {
+          "A": "give",
+          "B": "take",
+          "C": "get",
+          "D": "go"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 202,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يشاهد\"?",
+        "options": {
+          "A": "watch",
+          "B": "walk",
+          "C": "write",
+          "D": "want"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 203,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يأخذ\"?",
+        "options": {
+          "A": "talk",
+          "B": "tell",
+          "C": "think",
+          "D": "take"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 204,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يتحدث\"?",
+        "options": {
+          "A": "take",
+          "B": "talk",
+          "C": "tell",
+          "D": "ask"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 205,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يخبر\"?",
+        "options": {
+          "A": "think",
+          "B": "ask",
+          "C": "tell",
+          "D": "run"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 206,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يسأل\"?",
+        "options": {
+          "A": "ask",
+          "B": "answer",
+          "C": "arrive",
+          "D": "accept"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 207,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يساعد\"?",
+        "options": {
+          "A": "have",
+          "B": "hear",
+          "C": "hit",
+          "D": "help"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 208,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يحتاج\"?",
+        "options": {
+          "A": "want",
+          "B": "need",
+          "C": "know",
+          "D": "keep"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 209,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يمشي\"?",
+        "options": {
+          "A": "work",
+          "B": "wear",
+          "C": "walk",
+          "D": "write"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 210,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يكتب\"?",
+        "options": {
+          "A": "write",
+          "B": "read",
+          "C": "ride",
+          "D": "run"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 211,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يقرأ\"?",
+        "options": {
+          "A": "ride",
+          "B": "write",
+          "C": "run",
+          "D": "read"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 212,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I want to _____ football.",
+        "options": {
+          "A": "read",
+          "B": "play",
+          "C": "write",
+          "D": "drink"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 213,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Complete the sentence: I can _____ the sun.",
+        "options": {
+          "A": "eat",
+          "B": "write",
+          "C": "see",
+          "D": "sleep"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 214,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يتعلم\"?",
+        "options": {
+          "A": "learn",
+          "B": "leave",
+          "C": "lose",
+          "D": "let"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 215,
+        "unit": "Unit 8: Common Verbs & Meanings",
+        "type": "mcq",
+        "prompt": "Which word means \"يفهم\"?",
+        "options": {
+          "A": "use",
+          "B": "visit",
+          "C": "watch",
+          "D": "understand"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 216,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الأحد\"?",
+        "options": {
+          "A": "Saturday",
+          "B": "Sunday",
+          "C": "Monday",
+          "D": "Friday"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 217,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الجمعة\"?",
+        "options": {
+          "A": "Monday",
+          "B": "Tuesday",
+          "C": "Thursday",
+          "D": "Friday"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 218,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"أسبوع\"?",
+        "options": {
+          "A": "week",
+          "B": "day",
+          "C": "month",
+          "D": "year"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 219,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الثلاثاء\"?",
+        "options": {
+          "A": "Thursday",
+          "B": "Sunday",
+          "C": "Tuesday",
+          "D": "Saturday"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 220,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"السبت\"?",
+        "options": {
+          "A": "Saturday",
+          "B": "Sunday",
+          "C": "Wednesday",
+          "D": "Friday"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 221,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الإثنين\"?",
+        "options": {
+          "A": "Friday",
+          "B": "Sunday",
+          "C": "Monday",
+          "D": "Thursday"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 222,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الأربعاء\"?",
+        "options": {
+          "A": "Tuesday",
+          "B": "Wednesday",
+          "C": "Thursday",
+          "D": "Monday"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 223,
+        "unit": "Unit 9: Days of the Week",
+        "type": "mcq",
+        "prompt": "Which word means \"الخميس\"?",
+        "options": {
+          "A": "Monday",
+          "B": "Friday",
+          "C": "Saturday",
+          "D": "Thursday"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 224,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"قائمة الطعام\"?",
+        "options": {
+          "A": "menu",
+          "B": "bill",
+          "C": "waiter",
+          "D": "water"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 225,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"جرسون\"?",
+        "options": {
+          "A": "bill",
+          "B": "waiter",
+          "C": "order",
+          "D": "steak"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 226,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"فاتورة\"?",
+        "options": {
+          "A": "menu",
+          "B": "order",
+          "C": "bill",
+          "D": "tips"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 227,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"ماء\"?",
+        "options": {
+          "A": "milk",
+          "B": "chicken",
+          "C": "egg",
+          "D": "water"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 228,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"لبن\"?",
+        "options": {
+          "A": "water",
+          "B": "milk",
+          "C": "tea",
+          "D": "coffee"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 229,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"دجاج\"?",
+        "options": {
+          "A": "chicken",
+          "B": "steak",
+          "C": "egg",
+          "D": "fish"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 230,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"بيض\"?",
+        "options": {
+          "A": "bread",
+          "B": "cheese",
+          "C": "chicken",
+          "D": "egg"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 231,
+        "unit": "Unit 10: Food, Drink & Restaurant Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"ساندويتش\"?",
+        "options": {
+          "A": "steak",
+          "B": "order",
+          "C": "sandwich",
+          "D": "tips"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 232,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أحمر\"?",
+        "options": {
+          "A": "red",
+          "B": "blue",
+          "C": "green",
+          "D": "yellow"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 233,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أزرق\"?",
+        "options": {
+          "A": "red",
+          "B": "blue",
+          "C": "black",
+          "D": "brown"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 234,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أخضر\"?",
+        "options": {
+          "A": "yellow",
+          "B": "white",
+          "C": "green",
+          "D": "gold"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 235,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أصفر\"?",
+        "options": {
+          "A": "blue",
+          "B": "black",
+          "C": "red",
+          "D": "yellow"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 236,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أسود\"?",
+        "options": {
+          "A": "black",
+          "B": "white",
+          "C": "brown",
+          "D": "orange"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 237,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"أبيض\"?",
+        "options": {
+          "A": "black",
+          "B": "gold",
+          "C": "white",
+          "D": "brown"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 238,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"بني\"?",
+        "options": {
+          "A": "blue",
+          "B": "brown",
+          "C": "green",
+          "D": "red"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 239,
+        "unit": "Unit 11: Colors Vocabulary",
+        "type": "mcq",
+        "prompt": "Which word means \"ذهبي\"?",
+        "options": {
+          "A": "white",
+          "B": "brown",
+          "C": "orange",
+          "D": "gold"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 240,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"1\"?",
+        "options": {
+          "A": "one",
+          "B": "two",
+          "C": "three",
+          "D": "ten"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 241,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"12\"?",
+        "options": {
+          "A": "eleven",
+          "B": "twelve",
+          "C": "thirteen",
+          "D": "twenty"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 242,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"20\"?",
+        "options": {
+          "A": "twelve",
+          "B": "nineteen",
+          "C": "twenty",
+          "D": "ten"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 243,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"100\"?",
+        "options": {
+          "A": "one thousand",
+          "B": "two hundred",
+          "C": "one million",
+          "D": "one hundred"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 244,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"200\"?",
+        "options": {
+          "A": "two hundred",
+          "B": "one hundred",
+          "C": "one thousand",
+          "D": "two thousand"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 245,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"1000\"?",
+        "options": {
+          "A": "one hundred",
+          "B": "one thousand",
+          "C": "two thousand",
+          "D": "one million"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 246,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"5\"?",
+        "options": {
+          "A": "four",
+          "B": "six",
+          "C": "five",
+          "D": "fifteen"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 247,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"10\"?",
+        "options": {
+          "A": "one",
+          "B": "twelve",
+          "C": "twenty",
+          "D": "ten"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 248,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which word means \"15\"?",
+        "options": {
+          "A": "fifty",
+          "B": "fifteen",
+          "C": "five",
+          "D": "fourteen"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 249,
+        "unit": "Unit 12: Numbers & Money",
+        "type": "mcq",
+        "prompt": "Which phrase means \"50$\"?",
+        "options": {
+          "A": "Fifty dollars",
+          "B": "Fifteen dollars",
+          "C": "Five dollars",
+          "D": "Fifty pounds"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 250,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"فندق\"?",
+        "options": {
+          "A": "hospital",
+          "B": "bank",
+          "C": "hotel",
+          "D": "station"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 251,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مستشفى\"?",
+        "options": {
+          "A": "hotel",
+          "B": "bank",
+          "C": "station",
+          "D": "hospital"
+        },
+        "answer": "D"
+      },
+      {
+        "id": 252,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"قطار\"?",
+        "options": {
+          "A": "bus",
+          "B": "train",
+          "C": "bike",
+          "D": "car"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 253,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"أتوبيس\"?",
+        "options": {
+          "A": "bus",
+          "B": "train",
+          "C": "car",
+          "D": "bike"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 254,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"بنك\"?",
+        "options": {
+          "A": "hotel",
+          "B": "bank",
+          "C": "airport",
+          "D": "restaurant"
+        },
+        "answer": "B"
+      },
+      {
+        "id": 255,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مطار\"?",
+        "options": {
+          "A": "bank",
+          "B": "hotel",
+          "C": "airport",
+          "D": "station"
+        },
+        "answer": "C"
+      },
+      {
+        "id": 256,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"محطة\"?",
+        "options": {
+          "A": "station",
+          "B": "airport",
+          "C": "hotel",
+          "D": "bank"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 257,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"سيارة\"?",
+        "options": {
+          "A": "car",
+          "B": "bus",
+          "C": "train",
+          "D": "bike"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 258,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"دراجة\"?",
+        "options": {
+          "A": "bike",
+          "B": "car",
+          "C": "bus",
+          "D": "train"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 259,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"شارع\"?",
+        "options": {
+          "A": "street",
+          "B": "road",
+          "C": "square",
+          "D": "bridge"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 260,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"طريق\"?",
+        "options": {
+          "A": "road",
+          "B": "street",
+          "C": "square",
+          "D": "bridge"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 261,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"ميدان\"?",
+        "options": {
+          "A": "square",
+          "B": "street",
+          "C": "road",
+          "D": "bridge"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 262,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"كوبري / جسر\"?",
+        "options": {
+          "A": "bridge",
+          "B": "square",
+          "C": "road",
+          "D": "street"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 263,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"منزل\"?",
+        "options": {
+          "A": "house",
+          "B": "room",
+          "C": "door",
+          "D": "window"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 264,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"غرفة\"?",
+        "options": {
+          "A": "room",
+          "B": "house",
+          "C": "door",
+          "D": "window"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 265,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"باب\"?",
+        "options": {
+          "A": "door",
+          "B": "window",
+          "C": "room",
+          "D": "house"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 266,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"شباك / نافذة\"?",
+        "options": {
+          "A": "window",
+          "B": "door",
+          "C": "room",
+          "D": "house"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 267,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"طاولة / مائدة\"?",
+        "options": {
+          "A": "table",
+          "B": "chair",
+          "C": "bed",
+          "D": "desk"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 268,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"كرسي\"?",
+        "options": {
+          "A": "chair",
+          "B": "table",
+          "C": "bed",
+          "D": "desk"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 269,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"سرير\"?",
+        "options": {
+          "A": "bed",
+          "B": "chair",
+          "C": "table",
+          "D": "desk"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 270,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مكتب\"?",
+        "options": {
+          "A": "desk",
+          "B": "table",
+          "C": "chair",
+          "D": "bed"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 271,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"قلم جاف\"?",
+        "options": {
+          "A": "pen",
+          "B": "pencil",
+          "C": "book",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 272,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"قلم رصاص\"?",
+        "options": {
+          "A": "pencil",
+          "B": "pen",
+          "C": "book",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 273,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"كتاب\"?",
+        "options": {
+          "A": "book",
+          "B": "notebook",
+          "C": "pen",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 274,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"دفتر / كشكول\"?",
+        "options": {
+          "A": "notebook",
+          "B": "book",
+          "C": "pen",
+          "D": "pencil"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 275,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"حقيبة / شنطة\"?",
+        "options": {
+          "A": "bag",
+          "B": "book",
+          "C": "pen",
+          "D": "pencil"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 276,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"جواز سفر\"?",
+        "options": {
+          "A": "passport",
+          "B": "ticket",
+          "C": "visa",
+          "D": "id"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 277,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"تذكرة\"?",
+        "options": {
+          "A": "ticket",
+          "B": "passport",
+          "C": "visa",
+          "D": "id"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 278,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"تأشيرة\"?",
+        "options": {
+          "A": "visa",
+          "B": "passport",
+          "C": "ticket",
+          "D": "id"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 279,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"بطاقة هوية\"?",
+        "options": {
+          "A": "id",
+          "B": "passport",
+          "C": "ticket",
+          "D": "visa"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 280,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"ساعة يد\"?",
+        "options": {
+          "A": "watch",
+          "B": "clock",
+          "C": "phone",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 281,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"ساعة حائط\"?",
+        "options": {
+          "A": "clock",
+          "B": "watch",
+          "C": "phone",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 282,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"هاتف / تليفون\"?",
+        "options": {
+          "A": "phone",
+          "B": "watch",
+          "C": "clock",
+          "D": "bag"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 283,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"رقم هاتف\"?",
+        "options": {
+          "A": "phone number",
+          "B": "passport",
+          "C": "ticket",
+          "D": "id"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 284,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"اسم\"?",
+        "options": {
+          "A": "name",
+          "B": "age",
+          "C": "job",
+          "D": "address"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 285,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"عمر / سن\"?",
+        "options": {
+          "A": "age",
+          "B": "name",
+          "C": "job",
+          "D": "address"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 286,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"وظيفة / عمل\"?",
+        "options": {
+          "A": "job",
+          "B": "name",
+          "C": "age",
+          "D": "address"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 287,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"عنوان\"?",
+        "options": {
+          "A": "address",
+          "B": "name",
+          "C": "age",
+          "D": "job"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 288,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"بلد / دولة\"?",
+        "options": {
+          "A": "country",
+          "B": "city",
+          "C": "street",
+          "D": "home"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 289,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مدينة\"?",
+        "options": {
+          "A": "city",
+          "B": "country",
+          "C": "street",
+          "D": "home"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 290,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"جنسية\"?",
+        "options": {
+          "A": "nationality",
+          "B": "country",
+          "C": "city",
+          "D": "address"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 291,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"لغة\"?",
+        "options": {
+          "A": "language",
+          "B": "nationality",
+          "C": "country",
+          "D": "city"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 292,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"طبيب\"?",
+        "options": {
+          "A": "doctor",
+          "B": "teacher",
+          "C": "manager",
+          "D": "driver"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 293,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"معلم / مدرس\"?",
+        "options": {
+          "A": "teacher",
+          "B": "doctor",
+          "C": "manager",
+          "D": "driver"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 294,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مدير\"?",
+        "options": {
+          "A": "manager",
+          "B": "doctor",
+          "C": "teacher",
+          "D": "driver"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 295,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"سائق\"?",
+        "options": {
+          "A": "driver",
+          "B": "manager",
+          "C": "doctor",
+          "D": "teacher"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 296,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"مهندس\"?",
+        "options": {
+          "A": "engineer",
+          "B": "doctor",
+          "C": "teacher",
+          "D": "manager"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 297,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"طالب\"?",
+        "options": {
+          "A": "student",
+          "B": "teacher",
+          "C": "doctor",
+          "D": "manager"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 298,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"صديق\"?",
+        "options": {
+          "A": "friend",
+          "B": "manager",
+          "C": "teacher",
+          "D": "doctor"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 299,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"عائلة / أسرة\"?",
+        "options": {
+          "A": "family",
+          "B": "friend",
+          "C": "manager",
+          "D": "student"
+        },
+        "answer": "A"
+      },
+      {
+        "id": 300,
+        "unit": "Unit 13: Common Nouns & Places",
+        "type": "mcq",
+        "prompt": "Which word means \"شخص\"?",
+        "options": {
+          "A": "person",
+          "B": "family",
+          "C": "friend",
+          "D": "manager"
+        },
+        "answer": "A"
+      }
+    ]
+  }
+}
